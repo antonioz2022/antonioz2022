@@ -10,8 +10,6 @@ Here are a few projects I’ve been working on:
 - **[Coffice](https://github.com/coffice-g7/coffice)**: Coffice is a platform that connects professionals with the ideal cafés for working, studying, or simply enjoying a quiet moment. We streamline the process of discovering, filtering, and booking café spaces while you engage with an active community that provides feedback and adds value to the platform.
 - **[Pet4You](https://github.com/antonioz2022/ProjetoPET4YOU)**: Pet4You is a web application designed to simplify the pet adoption process. With an intuitive design and comprehensive features, the app connects animal shelters, independent rescuers, and potential adopters, providing a centralized platform to find and adopt pets responsibly.
 
-## 📈 GitHub Stats
-![Albuquerque GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonioz2022&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=synthwave)
 
 ## ⚙️ Technologies i use in my daily work
 <div style="display: inline_block">
